@@ -13,7 +13,6 @@
   <img align="center" alt="ericvictorscosta-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 <div>
-  <h3>I am studying</h3>
     
   
   
