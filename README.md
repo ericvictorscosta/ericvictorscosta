@@ -3,7 +3,7 @@
   <a href="https://github.com/ericvictorscosta/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericvictorscosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<div style="display: flex, justify-content: center"><br>
+<div style="display: inline-block" width:"100%"><br>
   <h3>Technologies I use in my day</h3>
   <img align="center" alt="ericvictorscosta-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ericvictorscosta-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
